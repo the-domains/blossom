@@ -1,0 +1,28 @@
+name: Blossom
+favicon: null
+layout_spectrum: 0.199241376016289
+typography_spectrum: 0.8220135299488902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5753064837772399
+  lightness: 0.724900561850518
+  saturation: 0.24517478072084486
+  rhythmicContrast: 0.06497077201493084
+purpose: []
